@@ -30,6 +30,7 @@ Captura de Tela:
 ![img02](https://github.com/user-attachments/assets/f2ee6925-c535-495b-ae79-fcc69e5864d2)
 
 
+
 Estrutura do Projeto:
 MainActivity.java: Contém a lógica principal do switch.
 activity_main.xml: Define a interface do usuário, incluindo o switch.
