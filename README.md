@@ -26,6 +26,7 @@ Conecte um dispositivo Android ou inicie um emulador.
 Clique em "Run" ou pressione Shift + F10.
 
 Captura de Tela:
+
 ![img01](https://github.com/user-attachments/assets/7c3246fc-4c82-4459-9276-c371a42919a6)
 ![img02](https://github.com/user-attachments/assets/f2ee6925-c535-495b-ae79-fcc69e5864d2)
 
